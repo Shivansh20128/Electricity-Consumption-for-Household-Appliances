@@ -99,3 +99,9 @@ After trying out all the regression models, we collected
 results for all of them and compared them using established
 metrics like MSE, RMSE, and R2 Score. Random Forest gave us
 the best results.
+
+![image](https://github.com/Shivansh20128/Electricity-Consumption-for-Household-Appliances/assets/88429611/cc790afb-febd-42ef-a770-080079c56684)
+
+![image](https://github.com/Shivansh20128/Electricity-Consumption-for-Household-Appliances/assets/88429611/cd0ce565-244d-4f99-81c1-ed7465561d69)
+
+
